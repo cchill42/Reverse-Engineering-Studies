@@ -1,13 +1,13 @@
-# Table of Contents
+## Table of Contents
 - [Overview](#Overview)
 - [Usage](#Usage)
 
-# Overview
+## Overview
 This is the first tool I ever learned about regarding reverse engineering. First learning it, it seems it is just a way to find string literals in binary files. 
 
 So far, I have not really dived deeply into this tool, but I do find it to be very useful already.
 
-# Usage
+## Usage
 Looking at this usage of it on a basic executable CrackMe, It can find method calls and literals used in printing. (As shown in the "try again!" and "Nice Job!!" messages)
 ```
 ff.
